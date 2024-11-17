@@ -1,1 +1,1 @@
-testi per dead.md skeden
+testi per read.md skeden/
